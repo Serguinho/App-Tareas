@@ -1,7 +1,7 @@
 import Formulario from "./formulario";
 import '../hojas-de-estilos/lista-tareas.css'
 import Tareas from '../Componentes/tareas'
-import {UseState, useState} from 'react'
+import { useState} from 'react'
 
 function ListaTareas() {
 
